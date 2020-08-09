@@ -1,0 +1,26 @@
+{
+  "name": "rgb-hex",
+  "version": "1.0.0",
+  "description": "",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "parcel build index.html --public-url ./"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marktiddy/rgb-hex.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marktiddy/rgb-hex/issues"
+  },
+  "homepage": "https://github.com/marktiddy/rgb-hex#readme",
+  "devDependencies": {
+    "@babel/core": "^7.11.1",
+    "@babel/preset-env": "^7.11.0",
+    "cssnano": "^4.1.10"
+  }
+}
